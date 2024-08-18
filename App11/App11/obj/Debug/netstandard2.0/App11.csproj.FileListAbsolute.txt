@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\App11\App11\App11\bin\Debug\netstandard2.0\App11.deps.json
+C:\Users\user\source\repos\App11\App11\App11\bin\Debug\netstandard2.0\App11.dll
+C:\Users\user\source\repos\App11\App11\App11\bin\Debug\netstandard2.0\ref\App11.dll
+C:\Users\user\source\repos\App11\App11\App11\bin\Debug\netstandard2.0\App11.pdb
+C:\Users\user\source\repos\App11\App11\App11\obj\Debug\netstandard2.0\App11.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\App11\App11\App11\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\App11\App11\App11\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\App11\App11\App11\obj\Debug\netstandard2.0\App11.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\App11\App11\App11\obj\Debug\netstandard2.0\App11.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\App11\App11\App11\obj\Debug\netstandard2.0\App11.AssemblyInfo.cs
+C:\Users\user\source\repos\App11\App11\App11\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\App11\App11\App11\obj\Debug\netstandard2.0\App11.dll
+C:\Users\user\source\repos\App11\App11\App11\obj\Debug\netstandard2.0\ref\App11.dll
+C:\Users\user\source\repos\App11\App11\App11\obj\Debug\netstandard2.0\App11.pdb
